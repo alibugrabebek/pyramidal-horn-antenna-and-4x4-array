@@ -84,3 +84,23 @@ This work was prepared as part of the EE-421 course in the Electrical and Electr
 **Ali Buğra Bebek**  
 Electrical and Electronic Engineering Student  
 Yeditepe University
+
+## Project Figures
+
+### Single Horn Antenna Model
+![Single Horn Model](single_horn_model.png)
+
+### 4x4 Horn Array Model
+![4x4 Horn Array Model](horn_array_model.png)
+
+### Single Horn S11
+![Single Horn S11](s11_single_horn.png)
+
+### 4x4 Array S11
+![4x4 Array S11](s11_array.png)
+
+### Single Horn Far-Field Pattern
+![Single Horn Far-Field](farfield_single_horn.png)
+
+### 4x4 Array Far-Field Pattern
+![4x4 Array Far-Field](farfield_array.png)
